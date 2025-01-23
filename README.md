@@ -1,5 +1,5 @@
-# PyUAS-22.83.0777
-Ujian Akhir Semester Pemrograman Python Lanjut - 22.83.0777
+# PyUAS-22.83.0777-22.83.0788
+Ujian Akhir Semester Pemrograman Python Lanjut - 22.83.0777 - 22.83.0788
 
 Aplikasi Otomasi untuk Konversi Resolusi dan Format Gambar
 * Mendukung banyak format gambar (*.png *.jpg *.jpeg *.bmp *.svg *.heif *.heic *.webp)
